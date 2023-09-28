@@ -5,6 +5,9 @@ This APEX Template Component Plugin adds an icon to a Report Column and outputs 
 How to use:
 Import the plugin in your APEX application. Select the --Column Text to Dialog Lineclamp-- type for a report column containing long text. 
 
+Demo Link:
+https://apex.oracle.com/pls/apex/r/scoleruz/column-text-to-dialog-lineclamp/home
+
 MIT License
 
 Copyright (c) [2023] [Apalaghie Sorin]
