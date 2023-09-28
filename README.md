@@ -3,7 +3,7 @@ Description:
 This APEX Template Component Plugin adds an icon to a Report Column and outputs the column text to a Modal Dialog when the icon is clicked. It also has an option to configure a limited number of rows to be displayed. 
 
 How to use:
-Import the plugin in your APEX application. Select the <<Column Text to Dialog Lineclamp>> type for a report column containing long text. 
+Import the plugin in your APEX application. Select the --Column Text to Dialog Lineclamp-- type for a report column containing long text. 
 
 MIT License
 
